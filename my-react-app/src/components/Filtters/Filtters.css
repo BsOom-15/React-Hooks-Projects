@@ -1,0 +1,29 @@
+.containerSearch
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchByTitle, .searchByRate 
+{
+    margin: 10px 30px;
+}
+
+.searchByTitle input
+{
+    padding: 5px 15px 5px 3px;
+    color: #8f6196;
+    border: 3px solid #480053;
+    outline: none;
+    border-radius: 10px;
+}
+
+.searchByRate input
+{
+    padding: 5px 15px 5px 3px;
+    color: #8f6196;
+    border: 3px solid #480053;
+    outline: none;
+    border-radius: 10px;
+}
